@@ -1,0 +1,13 @@
+{
+    "name": "sourcefront/source",
+    "description": "this is flie",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SourceFront",
+            "email": "a674836207@163.com"
+        }
+    ],
+    "require": {}
+}
